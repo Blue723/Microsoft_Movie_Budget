@@ -1,6 +1,6 @@
 # README
 
-![cinema]()
+![cinema](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/microsoftimg.png?raw=true)
 
 # Overview
 
@@ -25,11 +25,11 @@ This project uses descriptive analysis to look for trends that find how budget i
  - There appears to be no relationship between a movies production budget under 100 million and avrage rating, popularity, or profit percentage. 
  - Looking at the top 20, as expected from the correlation above, production budget appears to have no effect on profit percentage.
 
-![results](img\budg_rating_scatter.png) ![results](img\budg_rating.png) 
+![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_rating_scatter.png?raw=true) ![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_rating.png?raw=true) 
 
-![results](img\budg_pop_scatter.png) ![results](img\budg_pop.png) 
+![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_pop_scatter.png?raw=true) ![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_pop.png?raw=true) 
 
- ![results](img\budg_profit_scatter.png) ![results](img\budg_profit.png)
+![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_profit_scatter.png?raw=true) ![results](![image](https://user-images.githubusercontent.com/76915875/126412374-0b605374-9595-483e-a088-b4893a03073c.png) 
  
  ![cinema](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/cinemaimg.png?raw=true)
 
