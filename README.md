@@ -1,6 +1,6 @@
 # README
 
-![cinema](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_pop.png?raw=true)
+![cinema](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/cinemaimg.png?raw=true)
 
 # Overview
 
