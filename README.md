@@ -29,7 +29,7 @@ This project uses descriptive analysis to look for trends that find how budget i
 
 ![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_pop_scatter.png?raw=true) ![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_pop.png?raw=true) 
 
-![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_profit_scatter.png?raw=true) ![results](![image](https://user-images.githubusercontent.com/76915875/126412374-0b605374-9595-483e-a088-b4893a03073c.png) 
+![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_profit_scatter.png?raw=true) ![results](https://user-images.githubusercontent.com/76915875/126412374-0b605374-9595-483e-a088-b4893a03073c.png) 
  
  ![cinema](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/cinemaimg.png?raw=true)
 
