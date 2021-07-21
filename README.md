@@ -1,6 +1,6 @@
 # README
 
-![cinema](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/cinemaimg.png?raw=true)
+![cinema]()
 
 # Overview
 
@@ -30,6 +30,8 @@ This project uses descriptive analysis to look for trends that find how budget i
 ![results](img\budg_pop_scatter.png) ![results](img\budg_pop.png) 
 
  ![results](img\budg_profit_scatter.png) ![results](img\budg_profit.png)
+ 
+ ![cinema](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/cinemaimg.png?raw=true)
 
 # Conclusion
 
