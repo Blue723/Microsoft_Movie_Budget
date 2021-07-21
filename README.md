@@ -18,8 +18,6 @@ Microsoft has given data on movies on past movies to analyze budget. Extracted d
 
 This project uses descriptive analysis to look for trends that find how budget is related to other data. 
 
-![cinema](img\cinemaimg.png)
-
 # Results
 
  - There appears to be no relationship between a movies production budget under 100 million and avrage rating, popularity, or profit percentage. 
