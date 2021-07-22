@@ -1,35 +1,40 @@
 # README
 
-![cinema](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/microsoftimg.png?raw=true)
+![cinema](img\microsoftimg.png)
 
 # Overview
 
-Microsoft want to analyze if a production budget is indicative of a successful movie. Microsoft believes a movie's average rating, popularity, and profit are are signs of a successful movie. They hope analyzing budget's relation and effect on average rating, popularity, and profit will help decide if budget could be applied to what indicates a successful movie. 
+Microsoft is interested in analyzing if the production budget has a relationship or affect with a movie's average rating, popularity, and profit. They hope to conclude production budget is a significant variable in having a successful movie. 
 
 # Business Problem
 
-Microsoft would like to look at how budget affect the average rating, popularity, and profit. Microsoft's max budget will be 100 million so we will look at data under this. Microsoft would like to know if budget has positive relationships, to better understand how it affects the success.  
+Microsoft would like to have a production budget less than $100 million while having a successful movie. Microsoft has minimum values for  average rating(7.5), popularity(12.693), and profit(150%) for what they consider a “success” in each category. We will compare production budget relation on average rating, popularity, and profit separately to observe relation and trends. 
+ 
 
 # Data
 
-Microsoft has given data on movies on past movies to analyze budget. Extracted data used on movie’s budgets under 100 million, average ratings with minimum number of votes 10,000, popularity, domestic and foreign gross.
+Microsoft has given data on movies on past movies to analyze budget. Extracted data used on movie’s budgets under 100 million and compared to:
+ - Average ratings with minimum rating of 7.5 and number of votes 10,000, 
+ - Popularity more than 12.693 (the top 75% rated values)
+ - Worldwide gross to calculate profit more than 150%
+
 
 # Methods
 
-This project uses descriptive analysis to look for trends that find how budget is related to other data. 
+This project uses correlation analysis to look for trends that find how budget is related to other data. 
+
+![cinema](img\cinemaimg.png)
 
 # Results
 
  - There appears to be no relationship between a movies production budget under 100 million and avrage rating, popularity, or profit percentage. 
  - Looking at the top 20, as expected from the correlation above, production budget appears to have no effect on profit percentage.
 
-![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_rating_scatter.png?raw=true) ![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_rating.png?raw=true) 
+![results](img\budg_rating_scatter.png) ![results](img\budg_rating.png) 
 
-![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_pop_scatter.png?raw=true) ![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_pop.png?raw=true) 
+![results](img\budg_pop_scatter.png) ![results](img\budg_pop.png) 
 
-![results](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/budg_profit_scatter.png?raw=true) ![results](https://user-images.githubusercontent.com/76915875/126412374-0b605374-9595-483e-a088-b4893a03073c.png) 
- 
- ![cinema](https://github.com/Blue723/Microsoft_Movie_Budget/blob/master/img/cinemaimg.png?raw=true)
+ ![results](img\budg_profit_scatter.png) ![results](img\budg_profit.png)
 
 # Conclusion
 
